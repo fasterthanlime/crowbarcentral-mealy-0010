@@ -1,0 +1,7 @@
+A simple mealy automaton that detects the sequence 0010 in a binary input stream.
+
+Requires the latest rock, as usual: http://github.com/nddrylliog/rock
+
+Enjoy!
+
+Amos Wenger (nddrylliog)
